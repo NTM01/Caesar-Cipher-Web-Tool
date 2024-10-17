@@ -12,7 +12,7 @@
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher-web-tool.git
+   git clone https://github.com/NTM01/caesar-cipher-tool.git
 2. Navigate to the project directory:
    ```bash
    cd caesar-cipher-web-tool

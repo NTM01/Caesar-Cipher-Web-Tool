@@ -15,7 +15,7 @@
    git clone https://github.com/NTM01/caesar-cipher-tool.git
 2. Navigate to the project directory:
    ```bash
-   cd caesar-cipher-web-tool
+   cd caesar-cipher-tool
 3. Open the index.html file in your preferred browser.
    ```bash
    open index.html

@@ -20,8 +20,8 @@
    ```bash
    open index.html
 
-# How to Use
-**Enter the message you want to encrypt or decrypt in the text area**.
-**Specify a shift value (1-25) in the input field**.
-**Click the "Encrypt" button to encrypt the message or the "Decrypt" button to decrypt it**.
-**The result will be displayed below the buttons**.
+## How to Use
+1. **Enter the message you want to encrypt or decrypt in the text area**.
+2. **Specify a shift value (1-25) in the input field**.
+3. **Click the "Encrypt" button to encrypt the message or the "Decrypt" button to decrypt it**.
+4. **The result will be displayed below the buttons**.
